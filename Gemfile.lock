@@ -1,4 +1,5 @@
 GEM
+  gem "nokogiri", ">= 1.10.8"
   remote: https://rubygems.org/
   specs:
     activesupport (4.2.11.1)
